@@ -1,4 +1,4 @@
-import useData from "./usedata";
+import useData from "./useData";
 
 interface Platform {
     id: number;
